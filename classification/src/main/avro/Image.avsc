@@ -1,0 +1,15 @@
+{
+  "type" : "record",
+  "name" : "MnistImage",
+  "namespace" : "salesforce",
+  "fields" : [ {
+    "name" : "id",
+    "type" : [ "int", "null" ]
+  }, {
+    "name" : "label",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "features",
+    "type" : [ "string", "null" ]
+  } ]
+}
