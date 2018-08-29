@@ -6,7 +6,7 @@ This repo has an image classification app built using [TransmogrifAI](https://gi
 Fashion MNIST from https://www.kaggle.com/zalando-research/fashionmnist/home is used for this app.
 
 ### AutoML Best Model Stats
-
+```
 "bestModelName" : "rfc_7003fd9e8d5f_2",
 "cuttValues" : {
   "labelsKept" : [ 0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0 ],
@@ -34,3 +34,4 @@ Fashion MNIST from https://www.kaggle.com/zalando-research/fashionmnist/home is 
   "(multiEval)_F1" : 0.9011261593988766,
   "(multiEval)_Recall" : 0.9005182209827467
 }
+```
